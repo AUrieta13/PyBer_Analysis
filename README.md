@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the Analysis:
-- V. Isualize has given Omar and I a task using our Python skills and knowledge of Pandas to create a summary Dataframe of the ride-sharing data by city type. Using Pandas and Matplotlib with our files city data and ride data, we created a multiple-line graph that displays a summary of total weekly fares for each city type. 
+- Using our Python skills and knowledge of Pandas to create a summary Dataframe of the ride-sharing data by city type. Using Pandas and Matplotlib with our files city data and ride data, we created a multiple-line graph that displays a summary of total weekly fares for each city type. 
 
 ## Results:
 - After evaluating our data for each city type, we came to the conclusion that rural cities had the lowest number of rides but the most expensive average fare per ride and per driver. As expected, the urban cities had the highest number of rides and drivers than any other city type. 
